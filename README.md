@@ -1,8 +1,6 @@
-#Frontend Login Authentication system
+# About
+A Frontend Login validation system coded using JavaScript
 
-About:	
-A Frontend Login Authentication system coded using JavaScript	
-
-Features:	
-Form validation   
-Password varification
+# Features
+Form validation  
+Password verification
